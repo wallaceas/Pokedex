@@ -1,4 +1,4 @@
-# pokedex
+# pokédex
 
 Este projeto é uma interface web simples e interativa que simula uma Pokédex, inspirada no universo Pokémon. Seu objetivo é permitir que os usuários pesquisem informações de Pokémon por nome ou número e naveguem entre as entradas. A interface foi projetada para ser intuitiva e responsiva, funcionando bem em diferentes dispositivos.
 
