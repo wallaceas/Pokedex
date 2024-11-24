@@ -29,3 +29,8 @@ Interatividade: Busca dinâmica e navegação entre Pokémon.
 Responsividade: Design adaptado para dispositivos móveis e desktops.
 Organização: Estrutura clara com separação de responsabilidades (HTML, CSS, JS).
 Este projeto é ideal para iniciantes que desejam explorar manipulação de DOM, consumo de APIs e boas práticas de desenvolvimento web.
+
+
+IMAGEM ILUSTRATIVA DO PROJETO 🔱
+
+![iPhone-13-PRO-127 0 0 1](https://github.com/user-attachments/assets/376b9e04-301e-4b29-8153-2b82e5a82a00)
