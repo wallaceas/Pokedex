@@ -44,3 +44,7 @@ pokedex/
 ## IMAGEM ILUSTRATIVA DO PROJETO 🔱
 
 ![iPhone-13-PRO-127 0 0 1](https://github.com/user-attachments/assets/376b9e04-301e-4b29-8153-2b82e5a82a00)
+
+---
+
+Desenvolvido por Wallace Araújo.
